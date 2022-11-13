@@ -1,5 +1,5 @@
-- 👋 Selamlar, Ben @ReiDx
-- 👀 Buraya göz attığına sevindim dostum.
-- 💻 Yazılımla uğraşıyorum. 
-- 💞️ Java, C#, JS ve PHP gibi dillerde deneyimliyim.
-- 📫 Ortalama 4 yıldır yazılımla uğraşıyorum.
+- 👋 Hi, I'm @ReiDx
+- 👀 Glad you checked out here bro.
+- 💻 I'm interesting with software. 
+- 💞️ I am experienced in languages such as Java, C#, NodeJS.
+- 📫 I have been interesting with software for an average of 5 years.
